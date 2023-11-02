@@ -6,6 +6,7 @@ public class AnimationStateControllerCharacter : MonoBehaviour
 {
 
     Animator charAnimator;
+	Animator charAnimator2;
     
     // Start is called before the first frame update
     void Start()
